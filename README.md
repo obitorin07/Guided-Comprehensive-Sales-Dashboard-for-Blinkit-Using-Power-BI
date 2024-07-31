@@ -15,4 +15,4 @@ This is a guided Power BI project that provides an in-depth analysis of sales da
 This guided project helped me refresh my skills and improve my proficiency with Power BI.
 
 ## Dashboard
-
+![DASH ](https://github.com/user-attachments/assets/77cf625a-d629-4b8a-acb4-7a93e7a3c7dc)
